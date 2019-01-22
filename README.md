@@ -1,4 +1,4 @@
 ## Name: Samuel Ingram (ingras) - 
-### email: ingras@rpi.edu 
-### github account: sringram96
+### Graduating Year: 2019 
+### Project Sub-Area: Object Oriented Programming
 Photo of Sam ![Sam](images/Samheadshot.jpg)
